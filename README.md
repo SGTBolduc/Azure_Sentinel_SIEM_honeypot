@@ -21,13 +21,13 @@ Updated virson of how to setup Microsoft Azure Sentinel (SIEM) and connect it to
 
 <p align="center">
 Sign up free account: <br/>
-<img src="https://imgur.com/VNEtwYr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/M8SSQW0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 VM setup: <br/>
 <img src="https://imgur.com/VftOvbl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />               :
+<br />               
 Go to advanced settings: <br/>
 <img src="https://imgur.com/AQBmugv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -100,7 +100,7 @@ Should look like this: <br/>
 <img src="https://imgur.com/EtbFASU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />  
-Find this hidden folder on VM and copy the path: <br/>
+Find this hidden folder by searching c:\programData\ in VM and copy the path: <br/>
 <img src="https://imgur.com/duAjM1k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />  
@@ -116,7 +116,7 @@ Wait 20 min or so until it shows up in log analytics: <br/>
 <img src="https://imgur.com/D1XekQA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />  
-Use this script in a new workbook to organize the geo locations: <br/>
+Use this script in a new workbook to organize the geo locations. Make sure your in Log Analytics not in the VM group!: <br/>
 <img src="https://imgur.com/4RqY1eW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />  
