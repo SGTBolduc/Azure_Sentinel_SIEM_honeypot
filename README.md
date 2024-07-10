@@ -9,13 +9,14 @@ Updated virson of how to setup Microsoft Azure Sentinel (SIEM) and connect it to
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Log Analytics</b>
+- <b>Kusto Query Language (KQL)</b>
 
 <h2>Environments Used </h2>
 
-- <b>Microsoft Azure Sentinel (SIEM)</b> 
+- <b>Microsoft Azure Sentinel (SIEM)</b>
 - <b>Azure Virtual Machines</b>
 - <b>Remote Desktop Protocol (RDP)</b>
+- <b>Network Security Groups</b>
 
 <h2>walk-through:</h2>
 
