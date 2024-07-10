@@ -13,7 +13,7 @@ Updated virson of how to setup Microsoft Azure Sentinel (SIEM) and connect it to
 
 <h2>Environments Used </h2>
 
-- <b>Microsoft Sentinel Azure (SIEM)</b> 
+- <b>Microsoft Azure Sentinel (SIEM)</b> 
 - <b>Azure Virtual Machines</b>
 - <b>Remote Desktop Protocol (RDP)</b>
 
@@ -44,7 +44,7 @@ Create a log analytics workspace: <br/>
 <img src="https://imgur.com/H87ROTF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />  
-Go to environment settings in MSC for cloud check what I have marked: <br/>
+Go to environment settings in Microsoft Defender For Cloud Check What I Have Marked: <br/>
 <img src="https://imgur.com/brIY8k5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />  
