@@ -1,4 +1,4 @@
-# MicroSoft Azure Sentinel SIEM & HoneyPot
+# Microsoft Azure Sentinel SIEM & HoneyPot
 
 
 <h2>Description</h2>
@@ -15,7 +15,6 @@ Updated virson of how to setup Microsoft Azure Sentinel (SIEM) and connect it to
 
 - <b>Microsoft Azure Sentinel (SIEM)</b>
 - <b>Azure Virtual Machines</b>
-- <b>Remote Desktop Protocol (RDP)</b>
 - <b>Network Security Groups</b>
 
 <h2>walk-through:</h2>
